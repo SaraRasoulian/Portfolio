@@ -18,7 +18,7 @@ html {
 
 @font-face {
   font-family: 'Raleway-Regular';
-  src: url('/assets/fonts/Raleway-Regular.ttf') format('truetype');
+  src: url('../fonts/Raleway-Regular.ttf') format('truetype');
 }
 
 body {
