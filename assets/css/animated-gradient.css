@@ -26,7 +26,7 @@
   background: radial-gradient(closest-side, var(--top-left-color), transparent);
   top: -17rem;
   left: -21rem;
-  animation: expandAndContract 2s infinite alternate;
+  animation: expandAndContract 2.3s infinite alternate;
 }
 @keyframes expandAndContract {
   0% {
@@ -43,7 +43,7 @@
   background: radial-gradient(closest-side, var(--top-mid-color), transparent);
   top: -21rem;
   left: 3rem;
-  animation: expandAndContract2 0.5s infinite alternate;
+  animation: expandAndContract2 0.9s infinite alternate;
 }
 @keyframes expandAndContract2 {
   0% {
