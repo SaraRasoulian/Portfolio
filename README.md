@@ -1,6 +1,6 @@
 # Minimalistic Portfolio 💫
 
-This is a simple portfolio built using HTML, CSS, and JavaScript.
+This is a simple portfolio website built using HTML, CSS, and JavaScript.
 
 All content is hardcoded.
 
