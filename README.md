@@ -1,4 +1,4 @@
-# Minimalistic Portfolio 💫
+## Minimalistic Portfolio 💫
 
 This is a simple portfolio website built using HTML, CSS, and JavaScript.
 
