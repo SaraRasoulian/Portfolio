@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const email = emailButton.getAttribute("data-email");
     navigator.clipboard.writeText(email);
 
-    emailText.textContent = "Email Copied!";
+    emailText.textContent = "Copied!";
 
     setTimeout(() => {
       emailText.textContent = originalText;
