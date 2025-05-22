@@ -14,3 +14,6 @@ For a full-stack portfolio application built with .NET and Vue, [click here](htt
 2. Customize the content and write your story.
 
 3. Deploy using GitHub Pages.
+
+
+Feel free to customize this template to suit your style. 
