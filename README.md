@@ -1,4 +1,4 @@
-## Minimalistic Portfolio 💫
+## Minimalistic Portfolio 🎀
 
 This is a portfolio website built using HTML, CSS, and JavaScript. [Live Website](https://sararasoulian.github.io/portfolio/) 🚀.
 
